@@ -1,0 +1,23 @@
+# Binaries
+*.exe
+*.o
+*.out
+
+# Dependency directories
+vendor/
+go.sum
+go.mod
+pkg/mod/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# IDE or editor-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Environment-specific files
+.env
